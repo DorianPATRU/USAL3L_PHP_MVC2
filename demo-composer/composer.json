@@ -1,0 +1,14 @@
+{
+    "name": "dorian/demo-composer",
+    "description": "Demo projet",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "cocur/slugify": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cnam\\": "models"
+        }
+    }
+}
