@@ -1,6 +1,6 @@
 {
-    "name": "dorian/demo-composer",
-    "description": "Demo projet",
+    "name": "md/demo-composer",
+    "description": "mon super projet",
     "type": "project",
     "license": "MIT",
     "require": {
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cnam\\": "models"
+           "Cnam\\": "models" 
         }
     }
 }

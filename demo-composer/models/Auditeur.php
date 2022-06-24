@@ -1,12 +1,12 @@
-<?php
+<?php 
 // Cnam\Auditeur
 namespace Cnam;
 
-class Auditeur
+class Auditeur 
 {
     public $name;
 
-    public function __construct(string $name)
+    public function __construct(string $name) 
     {
         $this->name = $name;
     }

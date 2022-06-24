@@ -1,9 +1,15 @@
-# CNAM CPN90 A2 USAL3L
+# Composer
 
-## Logiciels requis :
+Installer composer : 
+https://getcomposer.org/download/ 
 
-- Un serveur web (Apache ou NGinx)
-- Un serveur de bases de données (MySQL 5.7+ ou MariaDB 10.3+)
-- PHP 7.4+
+Sous MAC : 
+- https://getcomposer.org/download/2.0.9/composer.phar
+et suivre la procédure suivante : 
+- https://www.azur-web.com/astuces/installer-composer-mac
 
-Vous pouvez installer Laragon, Xampp ou Wamp pour disposer des 3 logiciels nécessaires.
+
+
+## Tutoriel 
+
+https://www.hostinger.fr/tutoriels/comment-installer-et-utiliser-composer/
